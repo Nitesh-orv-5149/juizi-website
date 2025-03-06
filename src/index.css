@@ -1,0 +1,24 @@
+
+
+.roboto-regular {
+    font-family: "Roboto", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 800;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+}
+
+.poppins-bold {
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+  
+
+:root {
+    --bg-color : #120f1e;
+    --fg-color : #1e1b2d;
+}
+
+
